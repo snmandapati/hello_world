@@ -1,2 +1,5 @@
 # hello_world
-saying hello to the world from south carolina!
+
+Hi Humans!
+
+Sri here, I moved to the United states of America in 2010 summer from India, and been here ever since.
